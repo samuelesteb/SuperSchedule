@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+   
+
+*{
+    background-color: lightblue;
+}   
+
+table, th, td{
+        border: 2px solid blue;
+        margin: 50px auto;
+    }
+
+    table{
+        width: 50%;
+    }
+
+    th, td{
+        padding: 10px;
+    }
+
+    .name{
+        display: inline;
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 150px;
+    }
+    .ds{
+        font-family: 'Cabin', sans-serif;
+    }
+
+    .mat{
+        font-family: 'Righteous', cursive;
+    }
+
+    .day{
+        color:darkblue;
+    }
+
+    .mter{
+        color: black;
+        text-decoration: none;
+        cursor:wait;
+    }
+
+    .contenedor{
+        display: inline;
+    }
